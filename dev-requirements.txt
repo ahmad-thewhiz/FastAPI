@@ -1,5 +1,0 @@
-mypy
-ruff
-black
-ipykernel
-
